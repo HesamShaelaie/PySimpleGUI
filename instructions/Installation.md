@@ -20,7 +20,7 @@ for Pycharm you can follow the following steps:
 ![](/Images/install-v2.png)
 
 
-Now you need to check if the package is installed properly. For this, you need to check copy and paste the following code inside your project and run it. A simpler solution is to just run the file _**test.py**_. 
+Now you need to check if the package is installed properly. For this, you need to copy and paste the following code inside your project and run it. A simpler solution is to just run the file _**test.py**_. 
 
 ```python
 import PySimpleGUI as sg
@@ -81,7 +81,7 @@ At the time of writing this instruction, the latest version of Python is 3.11.2.
   * matplot
   * matplotlib
   * numpy
-  * panda
+  * pandas
 
 
 
