@@ -1,0 +1,212 @@
+id,status,Name,E-mail,Date to return
+1,Taken,Emily Gonzales,Emily.Gonzales@lehigh.edu,2023-02-23
+2,Taken,Gregory Edwards,Gregory.Edwards@lehigh.edu,2023-02-17
+3,Available,Not Applicable,Not Applicable,
+4,Available,Not Applicable,Not Applicable,
+5,Available,Not Applicable,Not Applicable,
+6,Available,Not Applicable,Not Applicable,
+7,Available,Not Applicable,Not Applicable,
+8,Taken,Brandon Caldwell,Brandon.Caldwell@lehigh.edu,2023-02-13
+9,Taken,Anthony Johnston,Anthony.Johnston@lehigh.edu,2023-02-05
+10,Taken,William Guerra,William.Guerra@lehigh.edu,2023-02-01
+11,Taken,Victoria Bass,Victoria.Bass@lehigh.edu,2023-02-14
+12,Available,Not Applicable,Not Applicable,
+13,Taken,Katherine Taylor,Katherine.Taylor@lehigh.edu,2023-02-15
+14,Available,Not Applicable,Not Applicable,
+15,Taken,Jeremy Lawrence,Jeremy.Lawrence@lehigh.edu,2023-02-27
+16,Taken,Alexander Bender,Alexander.Bender@lehigh.edu,2023-02-19
+17,Available,Not Applicable,Not Applicable,
+18,Taken,Randy Harris,Randy.Harris@lehigh.edu,2023-01-29
+19,Available,Not Applicable,Not Applicable,
+20,Available,Not Applicable,Not Applicable,
+21,Available,Not Applicable,Not Applicable,
+22,Available,Not Applicable,Not Applicable,
+23,Available,Not Applicable,Not Applicable,
+24,Taken,Joshua Mayer,Joshua.Mayer@lehigh.edu,2023-02-27
+25,Available,Not Applicable,Not Applicable,
+26,Taken,William Thomas,William.Thomas@lehigh.edu,2023-01-30
+27,Taken,Michael Chavez,Michael.Chavez@lehigh.edu,2023-02-14
+28,Available,Not Applicable,Not Applicable,
+29,Available,Not Applicable,Not Applicable,
+30,Available,Not Applicable,Not Applicable,
+31,Taken,Zachary Sanchez,Zachary.Sanchez@lehigh.edu,2023-01-31
+32,Taken,Briana Miller,Briana.Miller@lehigh.edu,2023-02-16
+33,Available,Not Applicable,Not Applicable,
+34,Taken,Harold Kirby,Harold.Kirby@lehigh.edu,2023-02-11
+35,Available,Not Applicable,Not Applicable,
+36,Taken,Eric Ortiz,Eric.Ortiz@lehigh.edu,2023-02-17
+37,Taken,Jeremy Pierce,Jeremy.Pierce@lehigh.edu,2023-02-05
+38,Taken,Mary Baker,Mary.Baker@lehigh.edu,2023-02-26
+39,Available,Not Applicable,Not Applicable,
+40,Taken,Joseph Morris,Joseph.Morris@lehigh.edu,2023-02-25
+41,Taken,Rachel Guzman,Rachel.Guzman@lehigh.edu,2023-02-12
+42,Taken,Michelle Nelson,Michelle.Nelson@lehigh.edu,2023-01-27
+43,Available,Not Applicable,Not Applicable,
+44,Taken,Arthur Williams,Arthur.Williams@lehigh.edu,2023-02-23
+45,Available,Not Applicable,Not Applicable,
+46,Available,Not Applicable,Not Applicable,
+47,Available,Not Applicable,Not Applicable,
+48,Available,Not Applicable,Not Applicable,
+49,Taken,Lisa Rojas,Lisa.Rojas@lehigh.edu,2023-02-13
+50,Taken,Diamond Fritz,Diamond.Fritz@lehigh.edu,2023-02-22
+51,Taken,Wendy Barber,Wendy.Barber@lehigh.edu,2023-02-07
+52,Available,Not Applicable,Not Applicable,
+53,Taken,Lindsay Gonzalez,Lindsay.Gonzalez@lehigh.edu,2023-02-18
+54,Available,Not Applicable,Not Applicable,
+55,Available,Not Applicable,Not Applicable,
+56,Taken,James Rodriguez,James.Rodriguez@lehigh.edu,2023-02-04
+57,Available,Not Applicable,Not Applicable,
+58,Available,Not Applicable,Not Applicable,
+59,Taken,Kathleen Martinez,Kathleen.Martinez@lehigh.edu,2023-02-07
+60,Taken,Andrew Gallagher,Andrew.Gallagher@lehigh.edu,2023-02-15
+61,Available,Not Applicable,Not Applicable,
+62,Taken,Lindsey Vargas,Lindsey.Vargas@lehigh.edu,2023-01-30
+63,Taken,Aaron Rose,Aaron.Rose@lehigh.edu,2023-01-31
+64,Taken,Mark Foster,Mark.Foster@lehigh.edu,2023-02-18
+65,Taken,Terry Johnson,Terry.Johnson@lehigh.edu,2023-02-20
+66,Available,Not Applicable,Not Applicable,
+67,Available,Not Applicable,Not Applicable,
+68,Taken,Lisa Douglas,Lisa.Douglas@lehigh.edu,2023-02-21
+69,Taken,Jennifer Martinez,Jennifer.Martinez@lehigh.edu,2023-01-28
+70,Available,Not Applicable,Not Applicable,
+71,Taken,Jeffrey Dorsey,Jeffrey.Dorsey@lehigh.edu,2023-02-02
+72,Available,Not Applicable,Not Applicable,
+73,Taken,Mason Green,Mason.Green@lehigh.edu,2023-02-11
+74,Taken,Abigail Marquez,Abigail.Marquez@lehigh.edu,2023-02-11
+75,Available,Not Applicable,Not Applicable,
+76,Taken,Amy Reynolds,Amy.Reynolds@lehigh.edu,2023-02-27
+77,Available,Not Applicable,Not Applicable,
+78,Taken,Tommy Abbott,Tommy.Abbott@lehigh.edu,2023-02-14
+79,Taken,Gregory Meyers,Gregory.Meyers@lehigh.edu,2023-02-02
+80,Taken,James Collins,James.Collins@lehigh.edu,2023-02-01
+81,Taken,Timothy Dixon,Timothy.Dixon@lehigh.edu,2023-02-04
+82,Available,Not Applicable,Not Applicable,
+83,Available,Not Applicable,Not Applicable,
+84,Taken,Erica Richardson,Erica.Richardson@lehigh.edu,2023-02-04
+85,Available,Not Applicable,Not Applicable,
+86,Taken,Shawn Ibarra,Shawn.Ibarra@lehigh.edu,2023-02-15
+87,Taken,Michael Gray,Michael.Gray@lehigh.edu,2023-01-30
+88,Available,Not Applicable,Not Applicable,
+89,Available,Not Applicable,Not Applicable,
+90,Taken,Patrick Hutchinson,Patrick.Hutchinson@lehigh.edu,2023-02-22
+91,Available,Not Applicable,Not Applicable,
+92,Available,Not Applicable,Not Applicable,
+93,Available,Not Applicable,Not Applicable,
+94,Available,Not Applicable,Not Applicable,
+95,Taken,Catherine Hughes,Catherine.Hughes@lehigh.edu,2023-01-28
+96,Available,Not Applicable,Not Applicable,
+97,Taken,Christopher Johnson,Christopher.Johnson@lehigh.edu,2023-02-04
+98,Available,Not Applicable,Not Applicable,
+99,Available,Not Applicable,Not Applicable,
+100,Available,Not Applicable,Not Applicable,
+101,Taken,Gabrielle Raymond,Gabrielle.Raymond@lehigh.edu,2023-02-26
+102,Taken,Mark Hamilton,Mark.Hamilton@lehigh.edu,2023-02-12
+103,Taken,Brandon Dillon,Brandon.Dillon@lehigh.edu,2023-02-16
+104,Available,Not Applicable,Not Applicable,
+105,Taken,Heather Garcia,Heather.Garcia@lehigh.edu,2023-01-30
+106,Taken,Lori Jones,Lori.Jones@lehigh.edu,2023-01-28
+107,Available,Not Applicable,Not Applicable,
+108,Available,Not Applicable,Not Applicable,
+109,Available,Not Applicable,Not Applicable,
+110,Available,Not Applicable,Not Applicable,
+111,Taken,Ashley Robinson,Ashley.Robinson@lehigh.edu,2023-01-29
+112,Taken,Linda Moss,Linda.Moss@lehigh.edu,2023-02-03
+113,Available,Not Applicable,Not Applicable,
+114,Available,Not Applicable,Not Applicable,
+115,Available,Not Applicable,Not Applicable,
+116,Taken,David Morgan,David.Morgan@lehigh.edu,2023-02-13
+117,Taken,Rachael Taylor,Rachael.Taylor@lehigh.edu,2023-02-05
+118,Taken,Robert Smith,Robert.Smith@lehigh.edu,2023-02-05
+119,Taken,Kimberly Webster,Kimberly.Webster@lehigh.edu,2023-02-22
+120,Available,Not Applicable,Not Applicable,
+121,Taken,John Johnson,John.Johnson@lehigh.edu,2023-02-26
+122,Available,Not Applicable,Not Applicable,
+123,Taken,Lindsay Bryant,Lindsay.Bryant@lehigh.edu,2023-02-20
+124,Taken,Jenna Escobar,Jenna.Escobar@lehigh.edu,2023-02-19
+125,Available,Not Applicable,Not Applicable,
+126,Available,Not Applicable,Not Applicable,
+127,Available,Not Applicable,Not Applicable,
+128,Taken,Jennifer Williams,Jennifer.Williams@lehigh.edu,2023-02-19
+129,Taken,Troy Briggs,Troy.Briggs@lehigh.edu,2023-02-21
+130,Available,Not Applicable,Not Applicable,
+131,Taken,Jeffrey Harrison,Jeffrey.Harrison@lehigh.edu,2023-02-14
+132,Taken,Robert Randall,Robert.Randall@lehigh.edu,2023-02-15
+133,Available,Not Applicable,Not Applicable,
+134,Taken,Elizabeth Espinoza,Elizabeth.Espinoza@lehigh.edu,2023-02-04
+135,Available,Not Applicable,Not Applicable,
+136,Taken,Nicole Love,Nicole.Love@lehigh.edu,2023-02-24
+137,Taken,Christopher Patrick,Christopher.Patrick@lehigh.edu,2023-02-10
+138,Taken,Jordan Kelly,Jordan.Kelly@lehigh.edu,2023-02-05
+139,Taken,Austin Sloan,Austin.Sloan@lehigh.edu,2023-02-26
+140,Available,Not Applicable,Not Applicable,
+141,Available,Not Applicable,Not Applicable,
+142,Taken,Amber Wang,Amber.Wang@lehigh.edu,2023-02-19
+143,Available,Not Applicable,Not Applicable,
+144,Available,Not Applicable,Not Applicable,
+145,Taken,Crystal Hickman,Crystal.Hickman@lehigh.edu,2023-02-22
+146,Taken,Jason Buchanan,Jason.Buchanan@lehigh.edu,2023-02-06
+147,Taken,Kristopher Tyler,Kristopher.Tyler@lehigh.edu,2023-02-02
+148,Taken,Cheryl Warner,Cheryl.Warner@lehigh.edu,2023-02-20
+149,Taken,Veronica White,Veronica.White@lehigh.edu,2023-02-20
+150,Available,Not Applicable,Not Applicable,
+151,Available,Not Applicable,Not Applicable,
+152,Taken,Kristy Brown,Kristy.Brown@lehigh.edu,2023-02-21
+153,Available,Not Applicable,Not Applicable,
+154,Available,Not Applicable,Not Applicable,
+155,Taken,William Hardy,William.Hardy@lehigh.edu,2023-01-31
+156,Taken,Carol Gray,Carol.Gray@lehigh.edu,2023-02-26
+157,Available,Not Applicable,Not Applicable,
+158,Taken,James Smith,James.Smith@lehigh.edu,2023-02-19
+159,Available,Not Applicable,Not Applicable,
+160,Available,Not Applicable,Not Applicable,
+161,Available,Not Applicable,Not Applicable,
+162,Taken,Edward Newton,Edward.Newton@lehigh.edu,2023-02-05
+163,Available,Not Applicable,Not Applicable,
+164,Available,Not Applicable,Not Applicable,
+165,Available,Not Applicable,Not Applicable,
+166,Available,Not Applicable,Not Applicable,
+167,Available,Not Applicable,Not Applicable,
+168,Available,Not Applicable,Not Applicable,
+169,Available,Not Applicable,Not Applicable,
+170,Taken,David Blake,David.Blake@lehigh.edu,2023-02-12
+171,Taken,Tracy Wells,Tracy.Wells@lehigh.edu,2023-02-04
+172,Available,Not Applicable,Not Applicable,
+173,Available,Not Applicable,Not Applicable,
+174,Available,Not Applicable,Not Applicable,
+175,Available,Not Applicable,Not Applicable,
+176,Taken,Janet Miller,Janet.Miller@lehigh.edu,2023-02-15
+177,Available,Not Applicable,Not Applicable,
+178,Taken,Bruce Grant,Bruce.Grant@lehigh.edu,2023-02-07
+179,Available,Not Applicable,Not Applicable,
+180,Taken,Calvin Gibson,Calvin.Gibson@lehigh.edu,2023-01-27
+181,Taken,Jeffrey Smith,Jeffrey.Smith@lehigh.edu,2023-01-30
+182,Taken,Angel Burke,Angel.Burke@lehigh.edu,2023-02-21
+183,Taken,Luis Graves,Luis.Graves@lehigh.edu,2023-01-31
+184,Taken,Robert White,Robert.White@lehigh.edu,2023-02-15
+185,Available,Not Applicable,Not Applicable,
+186,Available,Not Applicable,Not Applicable,
+187,Taken,Sarah Reed,Sarah.Reed@lehigh.edu,2023-02-18
+188,Available,Not Applicable,Not Applicable,
+189,Taken,Jamie Dominguez,Jamie.Dominguez@lehigh.edu,2023-01-30
+190,Available,Not Applicable,Not Applicable,
+191,Taken,Kim Elliott,Kim.Elliott@lehigh.edu,2023-02-01
+192,Taken,Bradley Conway,Bradley.Conway@lehigh.edu,2023-02-15
+193,Taken,Charles Benson,Charles.Benson@lehigh.edu,2023-02-04
+194,Available,Not Applicable,Not Applicable,
+195,Taken,Kimberly Richard,Kimberly.Richard@lehigh.edu,2023-02-21
+196,Taken,Blake Lamb,Blake.Lamb@lehigh.edu,2023-02-19
+197,Taken,Colton Perry,Colton.Perry@lehigh.edu,2023-01-27
+198,Taken,Robin Watson,Robin.Watson@lehigh.edu,2023-02-23
+199,Taken,Kim Payne,Kim.Payne@lehigh.edu,2023-01-31
+200,Taken,Barbara Gonzalez,Barbara.Gonzalez@lehigh.edu,2023-01-30
+201,Taken,David Mendoza,David.Mendoza@lehigh.edu,2023-02-11
+202,Taken,Jared Nelson,Jared.Nelson@lehigh.edu,2023-01-31
+203,Taken,Stephen Barr,Stephen.Barr@lehigh.edu,2023-02-09
+204,Taken,Shawn Vang,Shawn.Vang@lehigh.edu,2023-02-22
+205,Taken,Martin Medina,Martin.Medina@lehigh.edu,2023-02-08
+206,Taken,Kristina Lopez,Kristina.Lopez@lehigh.edu,2023-02-02
+207,Taken,Michael Vasquez,Michael.Vasquez@lehigh.edu,2023-02-11
+208,Available,Not Applicable,Not Applicable,
+209,Available,Not Applicable,Not Applicable,
+210,Taken,Hannah Freeman,Hannah.Freeman@lehigh.edu,2023-02-02
+211,Taken,Autumn Sparks,Autumn.Sparks@lehigh.edu,2023-02-05
