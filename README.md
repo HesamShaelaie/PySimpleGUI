@@ -1,5 +1,6 @@
 # Data structure
 # Class and inheritance
+# Error handling 
 # PySimpleGUI
 * [Reference to PySimpleGUI]()
 
