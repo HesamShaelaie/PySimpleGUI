@@ -83,7 +83,6 @@ At the time of writing this instruction, the latest version of Python is 3.11.2.
   * numpy
   * panda
 
-# Start creating simple GUI
 
 
 
