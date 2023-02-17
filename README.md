@@ -24,15 +24,16 @@ For this assignment, we need to use the information coming from Lab 3. We want t
 
 # Class and inheritance
 * [Tutorial](/instructions/Classes.md)
-* [Reference]()
-* [Youtube Link-1]()
-* [Youtube Link-2]()
+* [Reference](https://docs.python.org/3/tutorial/classes.html)
+* [Youtube Link-1](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&ab_channel=CoreySchafer)
+* [Youtube Link-2](https://www.youtube.com/watch?v=6c6NYPjO_rI&ab_channel=PythonSimplified)
 
 # Error handling 
 * [Tutorial](/instructions/Errors.md)
-* [Reference]()
-* [Youtube Link-1]()
-* [Youtube Link-2]()
+* [Reference](https://docs.python.org/3/tutorial/errors.html)
+* [Youtube Link-1](https://www.youtube.com/watch?v=NIWwJbo-9_8&ab_channel=CoreySchafer)
+* [Youtube Link-2](https://www.youtube.com/watch?v=ZUqGMDppEDs&ab_channel=NeuralNine)
+
 
 # PySimpleGUI
 
