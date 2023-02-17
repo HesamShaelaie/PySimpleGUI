@@ -36,6 +36,8 @@ For this assignment, we need to use the information coming from Lab 3. We want t
 
 # PySimpleGUI
 
+* [How to install on pycharm](/instructions/Installation.md)
+* [Tutorials](/instructions/Tutorials.md)
 * [Reference to PySimpleGUI](README.md)
 
     * [Instructions](https://www.pysimplegui.org/en/latest/)
@@ -45,10 +47,6 @@ For this assignment, we need to use the information coming from Lab 3. We want t
     * [Youtube Link-1](https://www.youtube.com/watch?v=-_z2RPAH0Qk&t=44s&ab_channel=RealPython)
     * [Youtube Link-2](https://www.youtube.com/watch?v=NzSCNjn4_RI&ab_channel=NeuralNine)
     * [Youtube Link-3](https://www.youtube.com/watch?v=LzCfNanQ_9c&t=94s&ab_channel=CodingIsFun)
-
-* [How to install on pycharm](/instructions/Installation.md)
-* [Tutorials](/instructions/Tutorials.md)
-
 
 
 
