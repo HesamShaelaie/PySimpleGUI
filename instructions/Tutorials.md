@@ -605,3 +605,57 @@ if __name__ == '__main__':
     #     func()
     examples[example_number]()
 ```
+
+
+# Example 9 - Elements
+
+## Listbox
+```python
+import PySimpleGUI as sg
+import os
+
+
+sg.Print('', font='Default 18', keep_on_top=True, size=(50,10), location=(1650,100))
+
+sg.set_options(font='Default 18')
+
+def main_listbox():
+    sg.theme_text_color('yellow')
+
+    color_names = ('red', 'green', 'blue', 'yellow', 'blue', 'blue green', 'sky blue', 'navy blue')
+    mixed_list = (1,2,3, 3.1415, sg.Text(), 'yellow + orange = amber')
+
+    layout = [
+            [sg.T('SINGLE (default)'+' '*35), sg.T('MULTIPLE'+' '*40), sg.T('BROWSE'+' '*15), sg.T('EXTENDED (best for multiple)')],
+            [sg.Listbox(color_names, size=(25,7), select_mode=sg.SELECT_MODE_SINGLE,  enable_events=True, k='-LBOX1-'),
+             sg.Listbox(mixed_list, size=(25,7), select_mode=sg.SELECT_MODE_MULTIPLE,  enable_events=True, k='-LBOX2-'),
+             sg.Listbox(mixed_list, size=(25,7), select_mode=sg.SELECT_MODE_BROWSE,  enable_events=True, k='-LBOX3-'),
+             sg.Listbox(mixed_list, size=(25,7), select_mode=sg.SELECT_MODE_EXTENDED, no_scrollbar=True,  enable_events=True, k='-LBOX4-')],
+            [sg.B('Go'), sg.B('Change'), sg.B('Exit')],
+             ]
+
+    window = sg.Window("Listbox", layout, keep_on_top=True)
+
+    while True:
+        event, values = window.read()
+        if event in (sg.WIN_CLOSED, 'Exit'):
+            break
+
+        sg.Print(f'event = {event}', c='white on red', erase_all=True)
+        sg.Print(*[f'   {k} = {values[k]}' for k in values], sep='\n')
+
+        if event == 'Change':
+            window['-LBOX1-'].update(values=mixed_list)
+        elif event == 'Go':
+            sg.Print(window['-LBOX2-'].get_indexes())
+            window['-LBOX3-'].set_value((2,3,3.1415))
+
+
+
+    window.close()
+
+
+if __name__ == '__main__':
+    main_listbox()
+
+```
