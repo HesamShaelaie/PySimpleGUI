@@ -34,7 +34,6 @@ For this assignment, we need to use the information coming from Lab 3. We want t
 * [Youtube Link-1](https://www.youtube.com/watch?v=NIWwJbo-9_8&ab_channel=CoreySchafer)
 * [Youtube Link-2](https://www.youtube.com/watch?v=ZUqGMDppEDs&ab_channel=NeuralNine)
 
-
 # PySimpleGUI
 
 * [How to install on pycharm](/instructions/Installation.md)
