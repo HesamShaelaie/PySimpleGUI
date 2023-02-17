@@ -21,9 +21,21 @@ For this assignment, we need to use the information coming from Lab 3. We want t
 
 
 # Data structure
+
 # Class and inheritance
+* [Tutorial](/instructions/Classes.md)
+* [Reference]()
+* [Youtube Link-1]()
+* [Youtube Link-2]()
+
 # Error handling 
+* [Tutorial](/instructions/Errors.md)
+* [Reference]()
+* [Youtube Link-1]()
+* [Youtube Link-2]()
+
 # PySimpleGUI
+
 * [Reference to PySimpleGUI](README.md)
 
     * [Instructions](https://www.pysimplegui.org/en/latest/)
