@@ -21,6 +21,8 @@ For this assignment, we need to use the information coming from Lab 3. We want t
 
 
 # Data structure
+# [Tutorial on Youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
+# [Data used in the Tutorial](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Pandas)
 
 # Class and inheritance
 * [Tutorial](/instructions/Classes.md)
