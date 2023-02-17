@@ -12,6 +12,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+examples/
 .DS_Store
 
 main.py
