@@ -6,7 +6,7 @@ For this assignment, we need to use the information coming from Lab 3. We want t
    * Takes a book name as input from the user and searches the database to check if the book exists in the database or not
         * If the book does not exist in the database then it shows a message indicates the library does not have the book
         * If the library has the book but it is not available, then you need to show the information of the person who borrowed the book
-   * If it is not available, then provide three input fields asking for name, email and expected return date. Also, you need to add a button to save this information and updating the database
+   * If it is not available, then provide three input fields asking for name, email and expected return date. Also, you need to add a button to save this information and update the database
 
 2. Design a window to get a report on genres
    * Put the name of all genres in a listbox in a window
