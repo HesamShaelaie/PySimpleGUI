@@ -659,3 +659,45 @@ if __name__ == '__main__':
     main_listbox()
 
 ```
+
+
+## Drawing Image
+
+```python
+import PySimpleGUI as sg
+
+def main_example():
+    sg.Print(font='Default 18', keep_on_top=True, size=(30, 14), relative_location=(600, -300))
+
+    image = r'Images/Help.png'
+
+    graph = sg.Graph((600, 600), (0,0), (600,600), drag_submits=True, enable_events=True, k='-GRAPH-')
+
+    layout = [[graph],
+              [sg.Button('Draw')]]
+
+    window = sg.Window('Graph Element - Example 2', layout)
+
+    image_fig = None
+    while True:
+        event, values = window.read()
+        if event in (sg.WIN_CLOSED, 'Exit'):
+            break
+        if event == 'Draw':
+            
+            image_fig = graph.draw_image(filename=image, location=(0, 600))
+            
+        elif event == '-GRAPH-':
+            graph.relocate_figure(image_fig, values[event][0], values[event][1])
+
+
+        sg.Print(f'event = {event}', c='white on red', erase_all=True)
+        sg.Print(*[f'   {k} = {values[k]}' for k in values], sep='\n')
+
+    window.close()
+
+
+if __name__ == '__main__':
+    
+   main_example()
+```
